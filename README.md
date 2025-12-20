@@ -65,11 +65,8 @@ Welcome to my digital playground — where ideas turn into commits ✨
 ---
 
 ### 🐍 Contribution Snake Game
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v3.4.1
 
 <!--
 **heckerr404/heckerr404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
