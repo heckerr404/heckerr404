@@ -13,7 +13,7 @@ Welcome to my digital playground — where ideas turn into commits ✨
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=heckerr404&theme=onedark&row=1&column=6" />
+  <img src="https://github-trophies.devomb.com/?username=heckerr404&theme=onedark&row=1&column=6" />
 </p>
 
 ---
@@ -58,8 +58,8 @@ Welcome to my digital playground — where ideas turn into commits ✨
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=heckerr404&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=heckerr404&layout=compact&theme=tokyonight" height="170"/>
+<img src="https://github-stats-extended.vercel.app/api?username=heckerr404&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=heckerr404&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
